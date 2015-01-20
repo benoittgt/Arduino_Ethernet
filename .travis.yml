@@ -10,3 +10,4 @@ install:
 - cd ino && sudo make install && cd ../
 - sudo pip install jinja2
 - sudo pip install pyserial
+- ino build
